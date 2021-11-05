@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Nathan Ryan,</h1>
+<h1 align="center">Hello! I'm Nathan Ryan.</h1>
 <h3 align="center">A passionate full-stack software developer from Canada.</h3>
 
 - 🔭 I’m currently working on: [this portfolio!](portfoliodemo.github.io)
