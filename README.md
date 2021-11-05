@@ -1,21 +1,21 @@
 <h1 align="center">Hello, I'm Nathan Ryan,</h1>
 <h3 align="center">A passionate full-stack software developer from Canada.</h3>
 
-- 🔭 I’m currently working on [this portfolio!](portfoliodemo.github.io)
+- 🔭 I’m currently working on: [this portfolio!](portfoliodemo.github.io)
 
-- 🌱 I’m currently learning **Java, JavaScript, React, Spring**
+- 🌱 I’m currently learning: **Java, JavaScript, React, Spring**
 
-- 👯 I’m looking to collaborate on **all things development!**
+- 👯 I’m looking to collaborate on: **all things development!**
 
-- 🤝 I’m looking for help with **writing my best code!**
+- 🤝 I’m looking for help with: **writing my best code!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/portfoliodemo](https://github.com/portfoliodemo)
+- 👨‍💻 All of my projects are available at: [https://github.com/portfoliodemo](https://github.com/portfoliodemo)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about: **HTML, CSS**
 
-- 📫 How to reach me **npryan@outlook.com**
+- 📫 How to reach me: **npryan@outlook.com**
 
-- ⚡ Fun fact **I've been in Tutankhamun's tomb!**
+- ⚡ Fun fact: **I've been in Tutankhamun's tomb!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
