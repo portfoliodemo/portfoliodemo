@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Nathan Ryan.</h1>
 <h3 align="center">A passionate full-stack software developer from Canada.</h3>
 
-- 🔭 I’m currently working on: [this portfolio!](portfoliodemo.github.io)
+- 🔭 I’m currently working on: [this portfolio!](https://portfoliodemo.github.io)
 
 - 🌱 I’m currently learning: **Java, JavaScript, React, Spring**
 
