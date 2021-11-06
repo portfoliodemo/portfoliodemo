@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [my portfolio!](https://portfoliodemo.github.io)
 
-- 🌱 I’m currently learning: **Java, JavaScript, React, Spring**
+- 🌱 I’m currently learning about: **Java, JavaScript, React, Spring, AWS, Unity**
 
 - 👯 I’m looking to collaborate on: **all things development!**
 
