@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with: **writing clean, testable code!**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/portfoliodemo](https://github.com/portfoliodemo)
-
 - ⚡ Fun fact: **I've been in Tutankhamun's tomb!**
 
 <h3 align="left">Connect with me:</h3>
