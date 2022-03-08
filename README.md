@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on: [my portfolio!](https://portfoliodemo.github.io)
 
-- 🌱 Right now I am learning about: **Java, JavaScript, React, Unity and C#**
+- 🌱 Right now I am learning about: **Java, JavaScript, React, Unity, AWS**
 
-- 👯 I’m looking to collaborate on: **all things development!**
+- 👀 I’m looking to collaborate on: **all things development!**
 
 - 🤝 I’m looking for help with: **writing clean, testable code!**
 
